@@ -19,7 +19,7 @@ require('./startup/config')();
 //Joi
 require('./startup/validation')();
 
-//Production 
+//Production environment
 require('./startup/prod')(app);
 
 //listening to the port
