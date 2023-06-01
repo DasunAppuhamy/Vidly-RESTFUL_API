@@ -1,0 +1,111 @@
+{
+  error: Error: Something failed during startup.
+      at Object.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js:70:7)
+      at Module._compile (node:internal/modules/cjs/loader:1254:14)
+      at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+      at Module.load (node:internal/modules/cjs/loader:1117:32)
+      at Module._load (node:internal/modules/cjs/loader:958:12)
+      at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+      at node:internal/main/run_main_module:23:47,
+  level: 'error',
+  message: 'uncaughtException: Something failed during startup.\n' +
+    'Error: Something failed during startup.\n' +
+    '    at Object.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js:70:7)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1117:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:958:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  stack: 'Error: Something failed during startup.\n' +
+    '    at Object.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js:70:7)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1117:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:958:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  exception: true,
+  date: 'Thu May 18 2023 23:59:51 GMT+0100 (British Summer Time)',
+  process: {
+    pid: 31650,
+    uid: 501,
+    gid: 20,
+    cwd: '/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI',
+    execPath: '/usr/local/bin/node',
+    version: 'v18.15.0',
+    argv: [
+      '/usr/local/bin/node',
+      '/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js'
+    ],
+    memoryUsage: {
+      rss: 122208256,
+      heapTotal: 71090176,
+      heapUsed: 40510520,
+      external: 73193089,
+      arrayBuffers: 72286934
+    }
+  },
+  os: {
+    loadavg: [ 2.83349609375, 3.1748046875, 2.525390625 ],
+    uptime: 940136
+  },
+  trace: [
+    {
+      column: 7,
+      file: '/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js',
+      function: null,
+      line: 70,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1254,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1308,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 1117,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 958,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'Function.executeUserEntryPoint [as runMain]',
+      line: 81,
+      method: 'executeUserEntryPoint [as runMain]',
+      native: false
+    },
+    {
+      column: 47,
+      file: 'node:internal/main/run_main_module',
+      function: null,
+      line: 23,
+      method: null,
+      native: false
+    }
+  ]
+}

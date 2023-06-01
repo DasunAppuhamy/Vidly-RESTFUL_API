@@ -1,0 +1,281 @@
+{
+  level: 'error',
+  message: 'Something failed during startup.',
+  stack: 'Error: Something failed during startup.\n' +
+    '    at Object.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js:42:7)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1117:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:958:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  timestamp: '2023-05-18T22:43:04.927Z'
+}
+{
+  level: 'error',
+  message: 'Something failed during startup.',
+  stack: 'Error: Something failed during startup.\n' +
+    '    at Object.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js:42:7)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1117:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:958:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  timestamp: '2023-05-18T22:43:35.344Z'
+}
+{
+  level: 'error',
+  message: 'Something went wrong misserably...',
+  stack: 'Error: Something went wrong misserably...\n' +
+    '    at Object.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js:43:26)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1117:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:958:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  timestamp: '2023-05-18T22:43:58.751Z'
+}
+{
+  level: 'error',
+  message: 'Something failed during startup.',
+  stack: 'Error: Something failed during startup.\n' +
+    '    at Object.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js:71:7)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1117:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:958:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  timestamp: '2023-05-18T23:00:55.351Z'
+}
+{
+  level: 'error',
+  message: 'Something failed during startup.',
+  stack: 'Error: Something failed during startup.\n' +
+    '    at Object.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js:71:7)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1117:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:958:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  timestamp: '2023-05-18T23:01:18.334Z'
+}
+{
+  level: 'error',
+  message: 'Operation `genres.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `genres.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)\n' +
+    '    at listOnTimeout (node:internal/timers:569:17)\n' +
+    '    at process.processTimers (node:internal/timers:512:7)',
+  timestamp: '2023-05-19T00:24:30.614Z'
+}
+{
+  level: 'error',
+  message: 'Operation `movies.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `movies.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)\n' +
+    '    at listOnTimeout (node:internal/timers:569:17)\n' +
+    '    at process.processTimers (node:internal/timers:512:7)',
+  timestamp: '2023-05-19T00:25:53.916Z'
+}
+{
+  level: 'error',
+  message: 'Operation `movies.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `movies.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)\n' +
+    '    at listOnTimeout (node:internal/timers:569:17)\n' +
+    '    at process.processTimers (node:internal/timers:512:7)',
+  timestamp: '2023-05-19T00:29:09.395Z'
+}
+{
+  level: 'error',
+  message: 'Operation `genres.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `genres.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)\n' +
+    '    at listOnTimeout (node:internal/timers:569:17)\n' +
+    '    at process.processTimers (node:internal/timers:512:7)',
+  timestamp: '2023-05-19T00:29:18.021Z'
+}
+{
+  level: 'error',
+  message: 'Operation `genres.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `genres.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)\n' +
+    '    at listOnTimeout (node:internal/timers:569:17)\n' +
+    '    at process.processTimers (node:internal/timers:512:7)',
+  timestamp: '2023-05-19T00:29:19.694Z'
+}
+{
+  level: 'error',
+  message: 'Operation `genres.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `genres.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)\n' +
+    '    at listOnTimeout (node:internal/timers:569:17)\n' +
+    '    at process.processTimers (node:internal/timers:512:7)',
+  timestamp: '2023-05-19T00:29:29.480Z'
+}
+{
+  level: 'error',
+  message: 'Operation `genres.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `genres.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)\n' +
+    '    at listOnTimeout (node:internal/timers:569:17)\n' +
+    '    at process.processTimers (node:internal/timers:512:7)',
+  timestamp: '2023-05-19T00:32:07.948Z'
+}
+{
+  level: 'error',
+  message: 'Operation `genres.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `genres.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)\n' +
+    '    at listOnTimeout (node:internal/timers:569:17)\n' +
+    '    at process.processTimers (node:internal/timers:512:7)',
+  timestamp: '2023-05-19T00:34:07.505Z'
+}
+{
+  level: 'error',
+  message: 'Operation `genres.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `genres.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)\n' +
+    '    at listOnTimeout (node:internal/timers:569:17)\n' +
+    '    at process.processTimers (node:internal/timers:512:7)',
+  timestamp: '2023-05-19T00:35:09.332Z'
+}
+{
+  level: 'error',
+  message: 'Operation `genres.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `genres.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)\n' +
+    '    at listOnTimeout (node:internal/timers:569:17)\n' +
+    '    at process.processTimers (node:internal/timers:512:7)',
+  timestamp: '2023-05-19T00:35:14.166Z'
+}
+{
+  level: 'error',
+  message: 'winston.info.message is not a function',
+  stack: 'TypeError: winston.info.message is not a function\n' +
+    '    at Server.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js:25:18)\n' +
+    '    at Object.onceWrapper (node:events:627:28)\n' +
+    '    at Server.emit (node:events:513:28)\n' +
+    '    at emitListeningNT (node:net:1774:10)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)',
+  timestamp: '2023-05-19T00:45:18.086Z'
+}
+{
+  level: 'error',
+  message: 'logger is not defined',
+  stack: 'ReferenceError: logger is not defined\n' +
+    '    at Server.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js:25:5)\n' +
+    '    at Object.onceWrapper (node:events:627:28)\n' +
+    '    at Server.emit (node:events:513:28)\n' +
+    '    at emitListeningNT (node:net:1774:10)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)',
+  timestamp: '2023-05-19T00:49:40.978Z'
+}
+{
+  level: 'error',
+  message: 'winston.log.info is not a function',
+  stack: 'TypeError: winston.log.info is not a function\n' +
+    '    at Server.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js:25:17)\n' +
+    '    at Object.onceWrapper (node:events:627:28)\n' +
+    '    at Server.emit (node:events:513:28)\n' +
+    '    at emitListeningNT (node:net:1774:10)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)',
+  timestamp: '2023-05-19T00:49:55.991Z'
+}
+{
+  level: 'error',
+  message: "Cannot create property 'Symbol(level)' on string 'Listening on port: 3000'",
+  stack: "TypeError: Cannot create property 'Symbol(level)' on string 'Listening on port: 3000'\n" +
+    '    at DerivedLogger.log (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/node_modules/winston/lib/winston/logger.js:214:20)\n' +
+    '    at exports.<computed> [as log] (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/node_modules/winston/lib/winston.js:105:68)\n' +
+    '    at Server.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js:25:13)\n' +
+    '    at Object.onceWrapper (node:events:627:28)\n' +
+    '    at Server.emit (node:events:513:28)\n' +
+    '    at emitListeningNT (node:net:1774:10)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)',
+  timestamp: '2023-05-19T00:50:03.592Z'
+}
+{
+  level: 'error',
+  message: "Cannot create property 'Symbol(level)' on string 'Listening on port: 3000'",
+  stack: "TypeError: Cannot create property 'Symbol(level)' on string 'Listening on port: 3000'\n" +
+    '    at DerivedLogger.log (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/node_modules/winston/lib/winston/logger.js:214:20)\n' +
+    '    at exports.<computed> [as log] (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/node_modules/winston/lib/winston.js:105:68)\n' +
+    '    at Server.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js:25:13)\n' +
+    '    at Object.onceWrapper (node:events:627:28)\n' +
+    '    at Server.emit (node:events:513:28)\n' +
+    '    at emitListeningNT (node:net:1774:10)\n' +
+    '    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)',
+  timestamp: '2023-05-19T00:50:09.307Z'
+}
+{
+  level: 'error',
+  message: 'FATAL ERROR: jwtPrivateKey is not defined...',
+  stack: 'Error: FATAL ERROR: jwtPrivateKey is not defined...\n' +
+    '    at module.exports (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/startup/config.js:5:15)\n' +
+    '    at Object.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js:17:28)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1117:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:958:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  timestamp: '2023-05-29T01:28:03.146Z'
+}
+{
+  level: 'error',
+  message: 'FATAL ERROR: jwtPrivateKey is not defined...',
+  stack: 'Error: FATAL ERROR: jwtPrivateKey is not defined...\n' +
+    '    at module.exports (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/startup/config.js:5:15)\n' +
+    '    at Object.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js:17:28)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1117:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:958:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  timestamp: '2023-05-29T18:33:52.259Z'
+}
+{
+  level: 'error',
+  message: 'FATAL ERROR: jwtPrivateKey is not defined...',
+  stack: 'Error: FATAL ERROR: jwtPrivateKey is not defined...\n' +
+    '    at module.exports (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/startup/config.js:5:15)\n' +
+    '    at Object.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js:17:28)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1117:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:958:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  timestamp: '2023-05-31T01:13:29.612Z'
+}
+{
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js'
+  ],
+  level: 'error',
+  message: "Cannot find module './startup/production'\n" +
+    'Require stack:\n' +
+    '- /Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js',
+  stack: "Error: Cannot find module './startup/production'\n" +
+    'Require stack:\n' +
+    '- /Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js\n' +
+    '    at Module._resolveFilename (node:internal/modules/cjs/loader:1075:15)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:920:27)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:1141:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:110:18)\n' +
+    '    at Object.<anonymous> (/Users/dasunappuhamy/Desktop/Studies/NodeJS/Vidly-restAPI/index.js:23:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1254:14)\n' +
+    '    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:1117:32)\n' +
+    '    at Module._load (node:internal/modules/cjs/loader:958:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n' +
+    '    at node:internal/main/run_main_module:23:47',
+  timestamp: '2023-05-31T01:14:03.059Z'
+}
